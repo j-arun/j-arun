@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @j-arun
-- 👀 I’m interested in k8, AWS , Microservices  , Java  
+- 👀 I’m interested in k8, AWS , Microservices  , Java  , VMWare Tanzu
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on AWS Sevices, Kafka Streaming , MongoDb
 - 📫 arunachalam.jegadeesan@gmail.com
